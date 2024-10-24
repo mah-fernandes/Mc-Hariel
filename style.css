@@ -1,0 +1,68 @@
+body{
+    margin:0%;
+    text-align: center;
+    background-color: beige;
+    font-family:'Times New Roman', Times, serif;
+    }
+    .perfil{
+        height: 500;
+        width: 500;
+    }
+    #inicio{
+        background: linear-gradient(rgb(49, 39, 189), blue);
+        bottom: 0;
+        display: table;
+        width: 100%;
+        height:80%;
+        z-index: 9;
+    }
+    #nome{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+    }
+    #valor{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    }
+    h2{
+        font-size: 30px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: rgb(7, 91, 112);
+    }
+    #sobre{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+    }
+    .line{
+        height: 6px;
+        background-color: rgb(142, 109, 233);
+        width: 8px auto;
+    }
+    .parallax-inner{
+        display: table-cell;
+        vertical-align: middle;
+    }
+    .myNavbar{
+        position: sticky;
+        top: 0%;
+        z-index: 9;
+    }
+    .links{
+        display: inline;
+        padding-left: 33px;
+        padding-right: 25px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;}
+        .links :hover{
+            font-size: 2px;
+        }
+#contatosiframe{
+width: 100%;
+}
+.contatos_1h3{
+    display: inline;
+    padding-bottom: 20px;
+}
+    
